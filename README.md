@@ -4,15 +4,10 @@
 
 꾸준히 노력하며 성장하고 싶은 예비 개발자입니다.
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/o._.ringg">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px; "/>
 </a>
 </div>
 
