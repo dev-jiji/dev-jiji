@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:FFC6A4,100:FFC752&height=200&section=header&text=Hi%20JiEun&fontSize=90)
 
-<div align=center ><h1>🎨 Me 🎨</h1>
+<div align=center ><h1>🎨 About Me 🎨</h1>
 
 꾸준히 노력하며 성장하고 싶은 예비 개발자입니다.
     
@@ -53,7 +53,8 @@ wldmsdlsns1@gamil.com
 
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
+     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <br>
