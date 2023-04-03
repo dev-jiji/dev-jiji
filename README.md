@@ -4,7 +4,8 @@
 
 꾸준히 노력하며 성장하고 싶은 예비 개발자입니다.
     
-wldmsdlsns1@gamil.com
+📧 wldmsdlsns1@gamil.com <br>
+📢 프로필 사이트 : https://introduction-three.vercel.app/
 
 <a href="https://instagram.com/o._.ringg">
     <img 
@@ -61,7 +62,7 @@ wldmsdlsns1@gamil.com
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<img width="70%" height="50%" src="https://blog.kakaocdn.net/dn/bEACaU/btqU4Ynqyia/5JSK3rT2QxSv9zlgf6KWBK/img.jpg"/>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jiji&show_icons=true&theme=radical)
